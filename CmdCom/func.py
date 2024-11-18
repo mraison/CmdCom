@@ -1,6 +1,6 @@
 import os
 
-from NodeManager.manager.command_parser.option import OptionCollection
+from CmdCom.option import OptionCollection
 
 
 class FuncWrap:
